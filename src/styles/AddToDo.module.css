@@ -1,0 +1,10 @@
+.addTodo__input {
+    border: 0; 
+    padding: 7px 7px; 
+    border-bottom: 1px solid #ccc;
+    color: #333; 
+    width: 100%; 
+    box-sizing: border-box; 
+    letter-spacing: 1px
+}
+.addTodo__input:focus{outline: none;}

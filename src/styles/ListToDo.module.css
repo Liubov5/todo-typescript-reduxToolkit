@@ -1,0 +1,18 @@
+.todo {
+    display: flex;
+    padding: 10px;
+    border:1px solid rgb(192, 190, 190);
+    margin-bottom: 10px;
+    background-color: white;
+    column-gap: 10px;
+    align-items: center;
+}
+
+.todo__text {
+    font-size: 20px;
+    font-weight: 100;
+}
+.todo_completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
