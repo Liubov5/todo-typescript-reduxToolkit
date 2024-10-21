@@ -2,7 +2,7 @@
   "name": "todolist-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://liubov5.github.io/todolist-typescript-redux",
+  "homepage": "https://liubov5.github.io/todo-typescript-reduxToolkit",
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
     "@types/jest": "^27.5.2",
